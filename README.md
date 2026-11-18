@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/portada.svg" alt="Juan David Romero — Desarrollo web, backend y bases de datos" width="100%">
 
-  ### Hola, soy Juan David Romero 👋
+  ### Hola, soy Juan David Romero 
 
   Desarrollo aplicaciones web y servicios backend. Me interesa convertir modelos y procesos complejos en herramientas claras, útiles y comprobables.
 
