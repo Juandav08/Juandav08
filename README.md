@@ -1,12 +1,49 @@
 <div align="center">
   <img src="assets/portada.svg" alt="Juan David Romero — Desarrollo web, backend y bases de datos" width="100%">
 
-  ### Hola, soy Juan David Romero 
+  <h2>Hola, soy Juan David Romero</h2>
 
-  Desarrollo aplicaciones web y servicios backend. Me interesa convertir modelos y procesos complejos en herramientas claras, útiles y comprobables.
+  <p><strong>Estudiante de la Universidad Distrital Francisco José de Caldas</strong><br>
+  Desarrollo interfaces web, servicios backend y herramientas para modelar sistemas.</p>
 
-  **React · TypeScript · JavaScript · Node.js · Express · Java · MySQL · MQTT**
+  <p>
+    <a href="https://github.com/Juandav08"><img src="https://img.shields.io/badge/GitHub-Juandav08-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub: Juandav08"></a>
+    <a href="mailto:juandavidromero2003@gmail.com"><img src="https://img.shields.io/badge/Escríbeme-correo-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Escríbeme por correo"></a>
+  </p>
 </div>
+
+## Sobre mí
+
+- 🎓 Estudio en la **Universidad Distrital Francisco José de Caldas**.
+- 🔭 Actualmente colaboro en **[HiLeS Web](https://github.com/KevMasMas/HiLeS_WEB)**, un editor y simulador conectado con dispositivos físicos.
+- 🧩 He trabajado en editores visuales, redes de Petri, APIs REST, bases de datos e integración MQTT.
+- 📫 Contacto: **[juandavidromero2003@gmail.com](mailto:juandavidromero2003@gmail.com)**.
+
+## Lenguajes y herramientas
+
+**Lenguajes y web**
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="42" height="42">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="42" height="42">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" width="42" height="42">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="42" height="42">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="42" height="42">
+</p>
+
+**Frameworks, datos e integración**
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" width="42" height="42">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="42" height="42">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot" width="42" height="42">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="42" height="42">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite" title="Vite" width="42" height="42">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="42" height="42">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" title="Raspberry Pi" width="42" height="42">
+</p>
+
+<sub>También: Express, MQTT/Mosquitto, pruebas automatizadas y modelado relacional. Iconos de <a href="https://github.com/devicons/devicon">Devicon</a>.</sub>
 
 ## Proyectos destacados
 
@@ -36,12 +73,6 @@
 **Qué hace:** aplicación web académica para consultar y administrar partidos, selecciones, jugadores y alineaciones del Mundial 2026. Muestra los titulares sobre una cancha, organiza encuentros por grupos y rondas, y ofrece un panel de administración.
 
 **Mi aporte:** desarrollé el frontend con HTML, CSS y JavaScript, la API REST con Node.js y Express y el modelo relacional en MySQL. Incorporé operaciones CRUD, validaciones, notificaciones internas e importación de datos disponibles de FIFA.
-
-## Áreas en las que trabajo
-
-- **Frontend:** interfaces web con React, TypeScript, HTML, CSS y JavaScript.
-- **Backend y datos:** APIs REST, servicios en Java y Node.js, consultas y modelado en MySQL.
-- **Integración y calidad:** mensajería MQTT, pruebas automatizadas y refactorización.
 
 <div align="center">
   <sub>En los proyectos de equipo, los enlaces llevan al repositorio original para reconocer el trabajo compartido.</sub>
