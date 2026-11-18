@@ -21,7 +21,7 @@
 - Integré mensajes MQTT con los elementos `Service` y alineé el contrato web con los mensajes de la Pico W; añadí pruebas para el puente y los mensajes.
 - Trabajé en la interfaz de colaboración para móvil y en pruebas de ejecución distribuida y conformidad del modelo IR v2 en la rama `multi-pico`.
 - En una etapa inicial diseñé un prototipo de persistencia con NestJS y Prisma; la versión actual del proyecto funciona sin ese backend.
-- Preparé documentación técnica y ejemplos. También realicé la configuración inicial del frontend React/TypeScript, registrada en [este commit bajo `valeld`](https://github.com/KevMasMas/HiLeS_WEB/commit/a8baa7ff25c9efb355905a231fbbca65022394d1).
+- Preparé documentación técnica y ejemplos para reproducir y validar el trabajo.
 
 [Ver mis commits en `main`](https://github.com/KevMasMas/HiLeS_WEB/commits/main/?author=Juandav08) · [Ver trabajo en `multi-pico`](https://github.com/KevMasMas/HiLeS_WEB/tree/multi-pico)
 
